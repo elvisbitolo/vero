@@ -1,0 +1,18 @@
+{
+  "short_name": "Veronica Accounts",
+  "name": "Veronica Ongachi - Financial Accounting Portfolio",
+  "description": "Professional Accounting & Tax Filing Retainer Dashboard for Veronica Ongachi",
+  "icons": [
+    {
+      "src": "/src/assets/images/vero.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0E1525",
+  "theme_color": "#E5C158",
+  "display": "standalone",
+  "orientation": "portrait"
+}
